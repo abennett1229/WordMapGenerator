@@ -1,0 +1,26 @@
+feeding	0.6104545176709254	Nutrition and Health	https://www.facebook.com/
+feeding	0.6104545176709254	Nutrition and Health	https://www.facebook.com/
+sister	0.7834753434467732	Family	https://www.facebook.com/
+sister	0.7834753434467732	Family	https://www.facebook.com/
+adopt	0.4685170758608317	Adoption	https://www.facebook.com/
+adopt	0.4685170758608317	Adoption	https://www.facebook.com/
+crib	2.7510341554018893	Shopping	https://www.facebook.com/
+crib	2.7510341554018893	Shopping	https://www.facebook.com/
+birth	1.0231537374028077	Pregnancy and Birth	https://www.facebook.com/
+birth	1.0231537374028077	Pregnancy and Birth	https://www.facebook.com/
+teach	1.1014593194101512	Care and Development	https://www.facebook.com/
+teach	1.1014593194101512	Care and Development	https://www.facebook.com/
+breastfeed	2.5965273924233436	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	2.5965273924233436	Pregnancy and Birth	https://www.facebook.com/
+name	0.26368662356909583	Pregnancy and Birth	https://www.facebook.com/
+name	0.26368662356909583	Pregnancy and Birth	https://www.facebook.com/
+amazing	0.7952864384364869	Positive Adjectives	https://www.facebook.com/
+amazing	0.7952864384364869	Positive Adjectives	https://www.facebook.com/
+daycare	2.612692322556501	Care and Development	https://www.facebook.com/
+daycare	2.612692322556501	Care and Development	https://www.facebook.com/
+twins	1.2734469671911544	Twins	https://www.facebook.com/
+twins	1.2734469671911544	Twins	https://www.facebook.com/
+food	0.2608755916460908	Nutrition and Health	https://www.facebook.com/
+food	0.2608755916460908	Nutrition and Health	https://www.facebook.com/
+school	0.20781894546296317	Care and Development	https://www.facebook.com/
+school	0.20781894546296317	Care and Development	https://www.facebook.com/

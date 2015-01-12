@@ -1,0 +1,40 @@
+twins	1.2218709919492732	Twins	https://www.facebook.com/
+twins	1.2218709919492732	Twins	https://www.facebook.com/
+feeding	0.2802655414394571	Nutrition and Health	https://www.facebook.com/
+feeding	0.2802655414394571	Nutrition and Health	https://www.facebook.com/
+formula	1.6454203073592315	Shopping	https://www.facebook.com/
+formula	1.6454203073592315	Shopping	https://www.facebook.com/
+perfect	0.29242024337095723	Positive Adjectives	https://www.facebook.com/
+perfect	0.29242024337095723	Positive Adjectives	https://www.facebook.com/
+pregnant	0.6738980920598976	Pregnancy and Birth	https://www.facebook.com/
+pregnant	0.6738980920598976	Pregnancy and Birth	https://www.facebook.com/
+amazing	0.37882199848024334	Positive Adjectives	https://www.facebook.com/
+amazing	0.37882199848024334	Positive Adjectives	https://www.facebook.com/
+awesome	0.2534745440729484	Positive Adjectives	https://www.facebook.com/
+awesome	0.2534745440729484	Positive Adjectives	https://www.facebook.com/
+daycare	1.7770243115220818	Care and Development	https://www.facebook.com/
+daycare	1.7770243115220818	Care and Development	https://www.facebook.com/
+punishment	0.5280451584889276	Behavior	https://www.facebook.com/
+punishment	0.5280451584889276	Behavior	https://www.facebook.com/
+birth	0.7191812693516336	Pregnancy and Birth	https://www.facebook.com/
+birth	0.7191812693516336	Pregnancy and Birth	https://www.facebook.com/
+teach	0.8771924348952068	Care and Development	https://www.facebook.com/
+teach	0.8771924348952068	Care and Development	https://www.facebook.com/
+reading	1.8523509625126648	Care and Development	https://www.facebook.com/
+reading	1.8523509625126648	Care and Development	https://www.facebook.com/
+school	0.38506857907479225	Care and Development	https://www.facebook.com/
+school	0.38506857907479225	Care and Development	https://www.facebook.com/
+support	0.6660928519349678	Advice	https://www.facebook.com/
+support	0.6660928519349678	Advice	https://www.facebook.com/
+baby	0.29851968634235004	Pregnancy and Birth	https://www.facebook.com/
+baby	0.29851968634235004	Pregnancy and Birth	https://www.facebook.com/
+pregnancy	0.23794444177602847	Pregnancy and Birth	https://www.facebook.com/
+pregnancy	0.23794444177602847	Pregnancy and Birth	https://www.facebook.com/
+toilet	0.5280451584889276	Behavior	https://www.facebook.com/
+toilet	0.5280451584889276	Behavior	https://www.facebook.com/
+crib	2.232311131244206	Shopping	https://www.facebook.com/
+crib	2.232311131244206	Shopping	https://www.facebook.com/
+breastfeed	1.367504367582447	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	1.367504367582447	Pregnancy and Birth	https://www.facebook.com/
+childcare	2.506988888335244	Care and Development	https://www.facebook.com/
+childcare	2.506988888335244	Care and Development	https://www.facebook.com/

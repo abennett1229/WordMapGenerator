@@ -1,0 +1,50 @@
+pregnancy	0.4455468740682568	Pregnancy and Birth	https://www.facebook.com/
+pregnancy	0.4455468740682568	Pregnancy and Birth	https://www.facebook.com/
+amazing	0.9677138061296477	Positive Adjectives	https://www.facebook.com/
+amazing	0.9677138061296477	Positive Adjectives	https://www.facebook.com/
+daycare	1.5530744197539994	Care and Development	https://www.facebook.com/
+daycare	1.5530744197539994	Care and Development	https://www.facebook.com/
+formula	1.2154865923794287	Shopping	https://www.facebook.com/
+formula	1.2154865923794287	Shopping	https://www.facebook.com/
+crib	2.388491186913355	Shopping	https://www.facebook.com/
+crib	2.388491186913355	Shopping	https://www.facebook.com/
+health	0.8870950515465698	Nutrition and Health	https://www.facebook.com/
+health	0.8870950515465698	Nutrition and Health	https://www.facebook.com/
+nursery	0.8599146701456931	Pregnancy and Birth	https://www.facebook.com/
+nursery	0.8599146701456931	Pregnancy and Birth	https://www.facebook.com/
+pregnant	0.6159159634186592	Pregnancy and Birth	https://www.facebook.com/
+pregnant	0.6159159634186592	Pregnancy and Birth	https://www.facebook.com/
+crying	1.939572454279047	Behavior	https://www.facebook.com/
+crying	1.939572454279047	Behavior	https://www.facebook.com/
+beautiful	0.41237270264188575	Positive Adjectives	https://www.facebook.com/
+beautiful	0.41237270264188575	Positive Adjectives	https://www.facebook.com/
+birth	0.7494915172803154	Pregnancy and Birth	https://www.facebook.com/
+birth	0.7494915172803154	Pregnancy and Birth	https://www.facebook.com/
+teach	0.731644692894266	Care and Development	https://www.facebook.com/
+teach	0.731644692894266	Care and Development	https://www.facebook.com/
+sister	4.038096774867479	Family	https://www.facebook.com/
+sister	4.038096774867479	Family	https://www.facebook.com/
+sibling	0.40305553696671614	Family	https://www.facebook.com/
+sibling	0.40305553696671614	Family	https://www.facebook.com/
+fun	0.44688383492909767	Positive Adjectives	https://www.facebook.com/
+fun	0.44688383492909767	Positive Adjectives	https://www.facebook.com/
+twins	0.8322927508010457	Twins	https://www.facebook.com/
+twins	0.8322927508010457	Twins	https://www.facebook.com/
+brother	1.5249120941083993	Family	https://www.facebook.com/
+brother	1.5249120941083993	Family	https://www.facebook.com/
+habit	2.544778547807086	Behavior	https://www.facebook.com/
+habit	2.544778547807086	Behavior	https://www.facebook.com/
+breastfeed	0.7512534563271804	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	0.7512534563271804	Pregnancy and Birth	https://www.facebook.com/
+playground	0.9583502655015933	Toys and Activities	https://www.facebook.com/
+playground	0.9583502655015933	Toys and Activities	https://www.facebook.com/
+support	1.199315157398557	Advice	https://www.facebook.com/
+support	1.199315157398557	Advice	https://www.facebook.com/
+behavior	0.9314498497666813	Behavior	https://www.facebook.com/
+behavior	0.9314498497666813	Behavior	https://www.facebook.com/
+girl	0.6220539514431116	Daughters	https://www.facebook.com/
+girl	0.6220539514431116	Daughters	https://www.facebook.com/
+school	0.3270059367970404	Care and Development	https://www.facebook.com/
+school	0.3270059367970404	Care and Development	https://www.facebook.com/
+game	0.5141013897668457	Toys and Activities	https://www.facebook.com/
+game	0.5141013897668457	Toys and Activities	https://www.facebook.com/

@@ -1,0 +1,30 @@
+lunch	0.7242933661978993	Nutrition and Health	https://www.facebook.com/
+lunch	0.7242933661978993	Nutrition and Health	https://www.facebook.com/
+feeding	0.4104567330090997	Nutrition and Health	https://www.facebook.com/
+feeding	0.4104567330090997	Nutrition and Health	https://www.facebook.com/
+crib	2.0755799125252357	Shopping	https://www.facebook.com/
+crib	2.0755799125252357	Shopping	https://www.facebook.com/
+brother	0.8935196810848138	Family	https://www.facebook.com/
+brother	0.8935196810848138	Family	https://www.facebook.com/
+beautiful	2.42445048706828	Positive Adjectives	https://www.facebook.com/
+beautiful	2.42445048706828	Positive Adjectives	https://www.facebook.com/
+birth	0.9983694802584546	Pregnancy and Birth	https://www.facebook.com/
+birth	0.9983694802584546	Pregnancy and Birth	https://www.facebook.com/
+fun	1.0003367464611586	Positive Adjectives	https://www.facebook.com/
+fun	1.0003367464611586	Positive Adjectives	https://www.facebook.com/
+twins	1.3552877197088162	Twins	https://www.facebook.com/
+twins	1.3552877197088162	Twins	https://www.facebook.com/
+play	0.3268211385379252	Toys and Activities	https://www.facebook.com/
+play	0.3268211385379252	Toys and Activities	https://www.facebook.com/
+school	0.7728469083327526	Care and Development	https://www.facebook.com/
+school	0.7728469083327526	Care and Development	https://www.facebook.com/
+amazing	3.786592502370533	Positive Adjectives	https://www.facebook.com/
+amazing	3.786592502370533	Positive Adjectives	https://www.facebook.com/
+daycare	1.9794065224118855	Care and Development	https://www.facebook.com/
+daycare	1.9794065224118855	Care and Development	https://www.facebook.com/
+breastfeed	2.508099221250707	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	2.508099221250707	Pregnancy and Birth	https://www.facebook.com/
+name	0.3422612757104553	Pregnancy and Birth	https://www.facebook.com/
+name	0.3422612757104553	Pregnancy and Birth	https://www.facebook.com/
+development	4.5025358253746735	Care and Development	https://www.facebook.com/
+development	4.5025358253746735	Care and Development	https://www.facebook.com/

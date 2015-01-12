@@ -1,0 +1,36 @@
+baby	0.4523154964036727	Pregnancy and Birth	https://www.facebook.com/
+baby	0.4523154964036727	Pregnancy and Birth	https://www.facebook.com/
+brother	9.90004106101667	Family	https://www.facebook.com/
+brother	9.90004106101667	Family	https://www.facebook.com/
+school	0.307772949858611	Care and Development	https://www.facebook.com/
+school	0.307772949858611	Care and Development	https://www.facebook.com/
+feeding	0.2543658742336111	Nutrition and Health	https://www.facebook.com/
+feeding	0.2543658742336111	Nutrition and Health	https://www.facebook.com/
+sister	0.8620903479236814	Family	https://www.facebook.com/
+sister	0.8620903479236814	Family	https://www.facebook.com/
+beautiful	4.841852071917431	Positive Adjectives	https://www.facebook.com/
+beautiful	4.841852071917431	Positive Adjectives	https://www.facebook.com/
+birth	0.8928972506784735	Pregnancy and Birth	https://www.facebook.com/
+birth	0.8928972506784735	Pregnancy and Birth	https://www.facebook.com/
+teach	0.46046301797935785	Care and Development	https://www.facebook.com/
+teach	0.46046301797935785	Care and Development	https://www.facebook.com/
+amazing	0.9928726131624682	Positive Adjectives	https://www.facebook.com/
+amazing	0.9928726131624682	Positive Adjectives	https://www.facebook.com/
+daycare	1.897965637892875	Care and Development	https://www.facebook.com/
+daycare	1.897965637892875	Care and Development	https://www.facebook.com/
+crib	2.487527073034319	Shopping	https://www.facebook.com/
+crib	2.487527073034319	Shopping	https://www.facebook.com/
+boy	1.4155129753309115	Sons	https://www.facebook.com/
+boy	1.4155129753309115	Sons	https://www.facebook.com/
+pregnant	1.0689892754707568	Pregnancy and Birth	https://www.facebook.com/
+pregnant	1.0689892754707568	Pregnancy and Birth	https://www.facebook.com/
+formula	1.9209260359587157	Shopping	https://www.facebook.com/
+formula	1.9209260359587157	Shopping	https://www.facebook.com/
+pregnancy	0.5185242388776199	Pregnancy and Birth	https://www.facebook.com/
+pregnancy	0.5185242388776199	Pregnancy and Birth	https://www.facebook.com/
+fun	0.8983434343434346	Positive Adjectives	https://www.facebook.com/
+fun	0.8983434343434346	Positive Adjectives	https://www.facebook.com/
+twins	1.0498630603069246	Twins	https://www.facebook.com/
+twins	1.0498630603069246	Twins	https://www.facebook.com/
+breastfeed	1.2985391510005764	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	1.2985391510005764	Pregnancy and Birth	https://www.facebook.com/

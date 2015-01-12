@@ -1,0 +1,34 @@
+adopt	0.6045393783321831	Adoption	https://www.facebook.com/
+adopt	0.6045393783321831	Adoption	https://www.facebook.com/
+beautiful	2.888305650693183	Positive Adjectives	https://www.facebook.com/
+beautiful	2.888305650693183	Positive Adjectives	https://www.facebook.com/
+birth	1.0376593405234393	Pregnancy and Birth	https://www.facebook.com/
+birth	1.0376593405234393	Pregnancy and Birth	https://www.facebook.com/
+brother	0.5808515398020265	Family	https://www.facebook.com/
+brother	0.5808515398020265	Family	https://www.facebook.com/
+baby	0.28572867414239683	Pregnancy and Birth	https://www.facebook.com/
+baby	0.28572867414239683	Pregnancy and Birth	https://www.facebook.com/
+formula	1.5975817832431638	Shopping	https://www.facebook.com/
+formula	1.5975817832431638	Shopping	https://www.facebook.com/
+development	2.038918493988361	Care and Development	https://www.facebook.com/
+development	2.038918493988361	Care and Development	https://www.facebook.com/
+amazing	0.6828419617247379	Positive Adjectives	https://www.facebook.com/
+amazing	0.6828419617247379	Positive Adjectives	https://www.facebook.com/
+awesome	1.0592671373736922	Positive Adjectives	https://www.facebook.com/
+awesome	1.0592671373736922	Positive Adjectives	https://www.facebook.com/
+daycare	1.9115438061466419	Care and Development	https://www.facebook.com/
+daycare	1.9115438061466419	Care and Development	https://www.facebook.com/
+breastfeed	1.4683564478855133	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	1.4683564478855133	Pregnancy and Birth	https://www.facebook.com/
+support	2.4022674443565353	Advice	https://www.facebook.com/
+support	2.4022674443565353	Advice	https://www.facebook.com/
+twins	1.3699558068880926	Twins	https://www.facebook.com/
+twins	1.3699558068880926	Twins	https://www.facebook.com/
+crib	2.1695436328082787	Shopping	https://www.facebook.com/
+crib	2.1695436328082787	Shopping	https://www.facebook.com/
+game	2.5368203941333474	Toys and Activities	https://www.facebook.com/
+game	2.5368203941333474	Toys and Activities	https://www.facebook.com/
+feeding	0.28742939879142726	Nutrition and Health	https://www.facebook.com/
+feeding	0.28742939879142726	Nutrition and Health	https://www.facebook.com/
+sister	2.4208590697355326	Family	https://www.facebook.com/
+sister	2.4208590697355326	Family	https://www.facebook.com/

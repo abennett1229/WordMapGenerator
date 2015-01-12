@@ -1,0 +1,34 @@
+pregnant	0.7868464958413821	Pregnancy and Birth	https://www.facebook.com/
+pregnant	0.7868464958413821	Pregnancy and Birth	https://www.facebook.com/
+twins	1.4077315490367037	Twins	https://www.facebook.com/
+twins	1.4077315490367037	Twins	https://www.facebook.com/
+boy	0.2568613603691792	Sons	https://www.facebook.com/
+boy	0.2568613603691792	Sons	https://www.facebook.com/
+family	0.2595063352844696	Family	https://www.facebook.com/
+family	0.2595063352844696	Family	https://www.facebook.com/
+money	0.9052250761908738	Shopping	https://www.facebook.com/
+money	0.9052250761908738	Shopping	https://www.facebook.com/
+beautiful	5.451555813556396	Positive Adjectives	https://www.facebook.com/
+beautiful	5.451555813556396	Positive Adjectives	https://www.facebook.com/
+birth	0.8210036570522091	Pregnancy and Birth	https://www.facebook.com/
+birth	0.8210036570522091	Pregnancy and Birth	https://www.facebook.com/
+game	4.862231003664227	Toys and Activities	https://www.facebook.com/
+game	4.862231003664227	Toys and Activities	https://www.facebook.com/
+adopt	0.7677346067750375	Adoption	https://www.facebook.com/
+adopt	0.7677346067750375	Adoption	https://www.facebook.com/
+awesome	1.7712364744594524	Positive Adjectives	https://www.facebook.com/
+awesome	1.7712364744594524	Positive Adjectives	https://www.facebook.com/
+daycare	1.949372595315828	Care and Development	https://www.facebook.com/
+daycare	1.949372595315828	Care and Development	https://www.facebook.com/
+support	2.405988963022791	Advice	https://www.facebook.com/
+support	2.405988963022791	Advice	https://www.facebook.com/
+crib	1.2687389269931921	Shopping	https://www.facebook.com/
+crib	1.2687389269931921	Shopping	https://www.facebook.com/
+picture	0.4788890827921882	Visuals	https://www.facebook.com/
+picture	0.4788890827921882	Visuals	https://www.facebook.com/
+breastfeed	1.178918497177847	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	1.178918497177847	Pregnancy and Birth	https://www.facebook.com/
+school	0.41784191716530134	Care and Development	https://www.facebook.com/
+school	0.41784191716530134	Care and Development	https://www.facebook.com/
+mom	0.43840460960077077	Motherhood	https://www.facebook.com/
+mom	0.43840460960077077	Motherhood	https://www.facebook.com/

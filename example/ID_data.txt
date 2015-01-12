@@ -1,0 +1,30 @@
+money	2.1765732997203533	Shopping	https://www.facebook.com/
+money	2.1765732997203533	Shopping	https://www.facebook.com/
+crying	1.8668574029976188	Behavior	https://www.facebook.com/
+crying	1.8668574029976188	Behavior	https://www.facebook.com/
+amazing	0.39506442968253963	Positive Adjectives	https://www.facebook.com/
+amazing	0.39506442968253963	Positive Adjectives	https://www.facebook.com/
+daycare	1.9081120153077993	Care and Development	https://www.facebook.com/
+daycare	1.9081120153077993	Care and Development	https://www.facebook.com/
+pregnancy	0.3734944003908452	Pregnancy and Birth	https://www.facebook.com/
+pregnancy	0.3734944003908452	Pregnancy and Birth	https://www.facebook.com/
+birth	0.9123972973301278	Pregnancy and Birth	https://www.facebook.com/
+birth	0.9123972973301278	Pregnancy and Birth	https://www.facebook.com/
+school	0.2500831699117524	Care and Development	https://www.facebook.com/
+school	0.2500831699117524	Care and Development	https://www.facebook.com/
+breastfeed	2.5703301446939006	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	2.5703301446939006	Pregnancy and Birth	https://www.facebook.com/
+brother	1.0925966445238093	Family	https://www.facebook.com/
+brother	1.0925966445238093	Family	https://www.facebook.com/
+toilet	0.6151309312662642	Behavior	https://www.facebook.com/
+toilet	0.6151309312662642	Behavior	https://www.facebook.com/
+twins	1.1108148631592836	Twins	https://www.facebook.com/
+twins	1.1108148631592836	Twins	https://www.facebook.com/
+crib	2.3150136832086052	Shopping	https://www.facebook.com/
+crib	2.3150136832086052	Shopping	https://www.facebook.com/
+health	0.35870019099413225	Nutrition and Health	https://www.facebook.com/
+health	0.35870019099413225	Nutrition and Health	https://www.facebook.com/
+feeding	0.3246678453898691	Nutrition and Health	https://www.facebook.com/
+feeding	0.3246678453898691	Nutrition and Health	https://www.facebook.com/
+playground	0.20625136171007802	Toys and Activities	https://www.facebook.com/
+playground	0.20625136171007802	Toys and Activities	https://www.facebook.com/

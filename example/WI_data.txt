@@ -1,0 +1,46 @@
+tantrums	6.2780825786667735	Behavior	https://www.facebook.com/
+tantrums	6.2780825786667735	Behavior	https://www.facebook.com/
+formula	0.8515137124928565	Shopping	https://www.facebook.com/
+formula	0.8515137124928565	Shopping	https://www.facebook.com/
+amazing	1.0241702059277733	Positive Adjectives	https://www.facebook.com/
+amazing	1.0241702059277733	Positive Adjectives	https://www.facebook.com/
+awesome	0.6173516841481718	Positive Adjectives	https://www.facebook.com/
+awesome	0.6173516841481718	Positive Adjectives	https://www.facebook.com/
+daycare	2.0854520021876004	Care and Development	https://www.facebook.com/
+daycare	2.0854520021876004	Care and Development	https://www.facebook.com/
+game	0.374748931525946	Toys and Activities	https://www.facebook.com/
+game	0.374748931525946	Toys and Activities	https://www.facebook.com/
+brother	4.345121029791603	Family	https://www.facebook.com/
+brother	4.345121029791603	Family	https://www.facebook.com/
+habit	1.015925113439269	Behavior	https://www.facebook.com/
+habit	1.015925113439269	Behavior	https://www.facebook.com/
+reading	0.6016492406127525	Care and Development	https://www.facebook.com/
+reading	0.6016492406127525	Care and Development	https://www.facebook.com/
+crib	2.349562241056497	Shopping	https://www.facebook.com/
+crib	2.349562241056497	Shopping	https://www.facebook.com/
+nursery	3.3991965808830273	Pregnancy and Birth	https://www.facebook.com/
+nursery	3.3991965808830273	Pregnancy and Birth	https://www.facebook.com/
+behavior	2.491425857843672	Behavior	https://www.facebook.com/
+behavior	2.491425857843672	Behavior	https://www.facebook.com/
+breastfeed	1.3992173861200072	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	1.3992173861200072	Pregnancy and Birth	https://www.facebook.com/
+baby	0.33957871247504523	Pregnancy and Birth	https://www.facebook.com/
+baby	0.33957871247504523	Pregnancy and Birth	https://www.facebook.com/
+clothes	2.3667320772063984	Shopping	https://www.facebook.com/
+clothes	2.3667320772063984	Shopping	https://www.facebook.com/
+crying	3.2084150965079985	Behavior	https://www.facebook.com/
+crying	3.2084150965079985	Behavior	https://www.facebook.com/
+playground	0.5274988128066066	Toys and Activities	https://www.facebook.com/
+playground	0.5274988128066066	Toys and Activities	https://www.facebook.com/
+support	0.45991036976206656	Advice	https://www.facebook.com/
+support	0.45991036976206656	Advice	https://www.facebook.com/
+beautiful	1.3887040258188386	Positive Adjectives	https://www.facebook.com/
+beautiful	1.3887040258188386	Positive Adjectives	https://www.facebook.com/
+birth	0.8917029943520527	Pregnancy and Birth	https://www.facebook.com/
+birth	0.8917029943520527	Pregnancy and Birth	https://www.facebook.com/
+teach	0.40144308553615854	Care and Development	https://www.facebook.com/
+teach	0.40144308553615854	Care and Development	https://www.facebook.com/
+fun	0.7588867526031212	Positive Adjectives	https://www.facebook.com/
+fun	0.7588867526031212	Positive Adjectives	https://www.facebook.com/
+twins	1.16444812471052	Twins	https://www.facebook.com/
+twins	1.16444812471052	Twins	https://www.facebook.com/

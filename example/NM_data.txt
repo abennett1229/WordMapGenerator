@@ -1,0 +1,40 @@
+feeding	0.2544248329391637	Nutrition and Health	https://www.facebook.com/
+feeding	0.2544248329391637	Nutrition and Health	https://www.facebook.com/
+sister	2.2314609208570495	Family	https://www.facebook.com/
+sister	2.2314609208570495	Family	https://www.facebook.com/
+money	0.4826703048638225	Shopping	https://www.facebook.com/
+money	0.4826703048638225	Shopping	https://www.facebook.com/
+habit	3.9510597680274073	Behavior	https://www.facebook.com/
+habit	3.9510597680274073	Behavior	https://www.facebook.com/
+crib	2.1453612875525954	Shopping	https://www.facebook.com/
+crib	2.1453612875525954	Shopping	https://www.facebook.com/
+formula	1.116483564958281	Shopping	https://www.facebook.com/
+formula	1.116483564958281	Shopping	https://www.facebook.com/
+pregnancy	0.29379069999782925	Pregnancy and Birth	https://www.facebook.com/
+pregnancy	0.29379069999782925	Pregnancy and Birth	https://www.facebook.com/
+baby	0.2038627764508335	Pregnancy and Birth	https://www.facebook.com/
+baby	0.2038627764508335	Pregnancy and Birth	https://www.facebook.com/
+pregnant	0.640587852127425	Pregnancy and Birth	https://www.facebook.com/
+pregnant	0.640587852127425	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	1.2688980933677159	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	1.2688980933677159	Pregnancy and Birth	https://www.facebook.com/
+name	0.3412983391534924	Pregnancy and Birth	https://www.facebook.com/
+name	0.3412983391534924	Pregnancy and Birth	https://www.facebook.com/
+adopt	1.4457881568651467	Adoption	https://www.facebook.com/
+adopt	1.4457881568651467	Adoption	https://www.facebook.com/
+fun	0.7686951847034709	Positive Adjectives	https://www.facebook.com/
+fun	0.7686951847034709	Positive Adjectives	https://www.facebook.com/
+twins	1.500334792671156	Twins	https://www.facebook.com/
+twins	1.500334792671156	Twins	https://www.facebook.com/
+beautiful	0.7945588803206138	Positive Adjectives	https://www.facebook.com/
+beautiful	0.7945588803206138	Positive Adjectives	https://www.facebook.com/
+birth	1.1760127134020206	Pregnancy and Birth	https://www.facebook.com/
+birth	1.1760127134020206	Pregnancy and Birth	https://www.facebook.com/
+teach	1.3201618996613793	Care and Development	https://www.facebook.com/
+teach	1.3201618996613793	Care and Development	https://www.facebook.com/
+game	1.3697380086285031	Toys and Activities	https://www.facebook.com/
+game	1.3697380086285031	Toys and Activities	https://www.facebook.com/
+awesome	0.5234030055468948	Positive Adjectives	https://www.facebook.com/
+awesome	0.5234030055468948	Positive Adjectives	https://www.facebook.com/
+daycare	1.6983303831650907	Care and Development	https://www.facebook.com/
+daycare	1.6983303831650907	Care and Development	https://www.facebook.com/

@@ -1,0 +1,32 @@
+formula	0.24914274535221717	Shopping	https://www.facebook.com/
+formula	0.24914274535221717	Shopping	https://www.facebook.com/
+behavior	1.4750918588278683	Behavior	https://www.facebook.com/
+behavior	1.4750918588278683	Behavior	https://www.facebook.com/
+support	0.8296267270158947	Advice	https://www.facebook.com/
+support	0.8296267270158947	Advice	https://www.facebook.com/
+crib	2.1442840910827963	Shopping	https://www.facebook.com/
+crib	2.1442840910827963	Shopping	https://www.facebook.com/
+money	0.4444421529072853	Shopping	https://www.facebook.com/
+money	0.4444421529072853	Shopping	https://www.facebook.com/
+feeding	0.2990604479547745	Nutrition and Health	https://www.facebook.com/
+feeding	0.2990604479547745	Nutrition and Health	https://www.facebook.com/
+amazing	0.7019783507124602	Positive Adjectives	https://www.facebook.com/
+amazing	0.7019783507124602	Positive Adjectives	https://www.facebook.com/
+daycare	2.0608619776528356	Care and Development	https://www.facebook.com/
+daycare	2.0608619776528356	Care and Development	https://www.facebook.com/
+development	1.7895654133874628	Care and Development	https://www.facebook.com/
+development	1.7895654133874628	Care and Development	https://www.facebook.com/
+pregnant	1.3269566852321852	Pregnancy and Birth	https://www.facebook.com/
+pregnant	1.3269566852321852	Pregnancy and Birth	https://www.facebook.com/
+fun	0.5620849538059087	Positive Adjectives	https://www.facebook.com/
+fun	0.5620849538059087	Positive Adjectives	https://www.facebook.com/
+twins	1.2290952290810317	Twins	https://www.facebook.com/
+twins	1.2290952290810317	Twins	https://www.facebook.com/
+breastfeed	2.336622541085286	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	2.336622541085286	Pregnancy and Birth	https://www.facebook.com/
+name	0.27910739691520486	Pregnancy and Birth	https://www.facebook.com/
+name	0.27910739691520486	Pregnancy and Birth	https://www.facebook.com/
+birth	0.9366497667452691	Pregnancy and Birth	https://www.facebook.com/
+birth	0.9366497667452691	Pregnancy and Birth	https://www.facebook.com/
+reading	3.7486495204992685	Care and Development	https://www.facebook.com/
+reading	3.7486495204992685	Care and Development	https://www.facebook.com/

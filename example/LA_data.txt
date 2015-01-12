@@ -1,0 +1,42 @@
+toddler	0.3615029057619751	Toddlers	https://www.facebook.com/
+toddler	0.3615029057619751	Toddlers	https://www.facebook.com/
+daycare	2.195054347692701	Care and Development	https://www.facebook.com/
+daycare	2.195054347692701	Care and Development	https://www.facebook.com/
+boy	1.260424049135595	Sons	https://www.facebook.com/
+boy	1.260424049135595	Sons	https://www.facebook.com/
+crib	1.6112307331023505	Shopping	https://www.facebook.com/
+crib	1.6112307331023505	Shopping	https://www.facebook.com/
+brother	1.5359428019848524	Family	https://www.facebook.com/
+brother	1.5359428019848524	Family	https://www.facebook.com/
+habit	0.8407198463270736	Behavior	https://www.facebook.com/
+habit	0.8407198463270736	Behavior	https://www.facebook.com/
+fun	0.5387163526963331	Positive Adjectives	https://www.facebook.com/
+fun	0.5387163526963331	Positive Adjectives	https://www.facebook.com/
+twins	1.5351421767478473	Twins	https://www.facebook.com/
+twins	1.5351421767478473	Twins	https://www.facebook.com/
+sister	0.675689791139129	Family	https://www.facebook.com/
+sister	0.675689791139129	Family	https://www.facebook.com/
+beautiful	0.24602574212909603	Positive Adjectives	https://www.facebook.com/
+beautiful	0.24602574212909603	Positive Adjectives	https://www.facebook.com/
+birth	1.2387277367625293	Pregnancy and Birth	https://www.facebook.com/
+birth	1.2387277367625293	Pregnancy and Birth	https://www.facebook.com/
+teach	0.22251582246628282	Care and Development	https://www.facebook.com/
+teach	0.22251582246628282	Care and Development	https://www.facebook.com/
+breastfeed	1.7305395543604156	Pregnancy and Birth	https://www.facebook.com/
+breastfeed	1.7305395543604156	Pregnancy and Birth	https://www.facebook.com/
+name	0.2175893998553295	Pregnancy and Birth	https://www.facebook.com/
+name	0.2175893998553295	Pregnancy and Birth	https://www.facebook.com/
+reading	0.9997944009479317	Care and Development	https://www.facebook.com/
+reading	0.9997944009479317	Care and Development	https://www.facebook.com/
+video	2.266364612901373	Visuals	https://www.facebook.com/
+video	2.266364612901373	Visuals	https://www.facebook.com/
+adopt	0.5827475180220146	Adoption	https://www.facebook.com/
+adopt	0.5827475180220146	Adoption	https://www.facebook.com/
+crying	0.30631731029663284	Behavior	https://www.facebook.com/
+crying	0.30631731029663284	Behavior	https://www.facebook.com/
+playground	0.2566590106810122	Toys and Activities	https://www.facebook.com/
+playground	0.2566590106810122	Toys and Activities	https://www.facebook.com/
+support	0.9784225523881829	Advice	https://www.facebook.com/
+support	0.9784225523881829	Advice	https://www.facebook.com/
+game	1.8418130960839028	Toys and Activities	https://www.facebook.com/
+game	1.8418130960839028	Toys and Activities	https://www.facebook.com/
