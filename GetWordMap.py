@@ -6,7 +6,7 @@ from FileFunctions import file_to_matrix
 
 #Get individual word clouds for a list of regions and corresponding input files
 #Hex code list is optional for color coding words according to broader groups they're assigned to
-def get_region_word_clouds(my_country,region_list,hex_code_list):
+def get_region_word_clouds(my_country,region_list,theme_list,hex_code_list):
         #Define API endpoint and user credentials
         API_ENDPOINT = "https://tagul.com:8889/api"
         USERNAME = "xxxxxx";
@@ -37,12 +37,10 @@ def get_region_word_clouds(my_country,region_list,hex_code_list):
                         my_theme = row[2]
                         my_url = row[3]
                         word_list.append(my_word)
-                        theme_list.append(my_theme)
                         value_dict[my_word] = my_value
                         theme_dict[my_word] = my_theme
                         url_dict[my_word] = my_url
-                        word_list = list(set(word_list))
-                theme_list = sorted(list(set(theme_list)))
+                word_list = list(set(word_list))
                 #Iterate through word list to write the each xml tag
                 for my_word in word_list:
                         #Look up word value in dictionary
