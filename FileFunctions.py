@@ -10,5 +10,5 @@ def file_to_matrix(filename):
                         new_row = []
                         for entry in row.split('\t'):
                                 new_row.append(entry)
-                                result_matrix.append(new_row)
+                        result_matrix.append(new_row)
         return result_matrix
