@@ -15,5 +15,5 @@ if my_country == "LATAM":
 theme_list = ["Adoption", "Advice", "Behavior", "Care and Development", "Daughters", "Family", "Fatherhood", "Motherhood", "Nutrition and Health", "Positive Adjectives", "Pregnancy and Birth", "Shopping", "Sons", "Toddlers", "Toys and Activities", "Twins", "Visuals"]
 hex_code_list = ["B8DB70","FF9494","A3E0E0","E066E0","A3E085","85E0FF","FFA366","FFE066","FF85C2","C2A3E0","FFC2E0","A3FFE0","4DB894","7094FF","B280B2","E06685","372AFF"]
 
-get_region_word_clouds(my_country,region_list,hex_code_list)
+get_region_word_clouds(my_country,region_list,theme_list,hex_code_list)
 get_word_map(my_country,region_list)
