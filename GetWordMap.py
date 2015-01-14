@@ -26,8 +26,7 @@ def get_region_word_clouds(my_country,region_list,theme_list,hex_code_list):
                 #Required list of words and dictionary of values
                 word_list = []
                 value_dict = {}
-                #Optional list of themes, dictionary of word-theme pairs, and dictionary of url's
-                theme_list = []
+                #Optional dictionaries of word-theme pairs and word-url pairs
                 theme_dict = {}
                 url_dict = {}
                 #Iterate through matrix to create lists and dictionaries
